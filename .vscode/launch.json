@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "pwa-chrome",
+      "name": "https://github.com/matiasandrade7/helloword.git",
+      "request": "launch",
+      "url": "https://github.com/matiasandrade7/helloword.git"
+    }
+  ]
+}
